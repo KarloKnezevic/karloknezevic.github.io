@@ -1,0 +1,54 @@
+body {
+    padding-top: 120px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.fa-instagram {
+    color: #e36445;
+}
+
+.fa-linkedin-in {
+    color: #0077b5;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-github {
+    color: #333;
+}
+
+.fa-file-pdf-o {
+    color: #6a737b;
+}
+
+.fa-graduation-cap {
+    color: #333;
+}
+
+.fa-envelope-o {
+    color: #ea4335;
+}
+
+.fa-researchgate {
+    color: #1bdea4;
+}
+
+.fa,.fab {
+    margin: 20px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+</style>

@@ -1,2 +1,1 @@
-# karloknezevic.github.io
-A personal GitHub site
+# Karlo's personal webpage
