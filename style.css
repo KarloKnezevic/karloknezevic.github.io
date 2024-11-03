@@ -73,14 +73,16 @@ body {
 
 .profile-image {
 	border: 3px solid var(--primary-color);
-	border-radius: 50%;
+	border-radius: 12px;
 	height: 180px;
 	margin-bottom: 1.5rem;
+	object-fit: cover;
 	transition: transform .3s ease;
 	width: 180px;
 }
 
 .profile-image:hover {
+	box-shadow: 0 8px 16px #0000001a;
 	transform: scale(1.05);
 }
 
